@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'dudu_calligraphy';
+    src: url('../fonts/Dudu_Calligraphy.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+  font-family: 'dudu_calligraphy';
+  font-weight: normal;
+  font-style: normal;
+}
+
+p {
+  font-size: 18px;
+  line-height: 150%;
+}
